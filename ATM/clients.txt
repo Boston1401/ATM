@@ -1,0 +1,20 @@
+BT001
+Alexis de Onda
+mexico
+5894000
+BT002
+Andres Leon
+milwaukee
+3450678
+BT003
+Maria Silva
+boston
+4367892
+BT004
+Isabel Garcia
+denmark
+2146632
+BT005
+Juan Diaz
+montreal
+3886000

@@ -1,0 +1,8 @@
+﻿  ATM.cpp
+C:\Users\Admin\source\repos\ATM\ATM\ATMFunct.h(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ATM\ATM\ATMFunct.h(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ATM\ATM\ATMFunct.h(40,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ATM\ATM\ATMFunct.h(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ATM\ATM\ATMFunct.h(72,23): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+C:\Users\Admin\source\repos\ATM\ATM\ATM.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ATM.vcxproj -> C:\Users\Admin\source\repos\ATM\Debug\ATM.exe
